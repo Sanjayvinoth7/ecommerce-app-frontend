@@ -86,8 +86,8 @@ export default function Loginscreen() {
             </div>
             <div className='margin-10'><a  href="/register" >Click Here To Register</a></div>
             <div className="text-right cont mt-1 text-black ">
-                <span>{`Admin : user@gmail`}</span><br/>
-                <span>{`Password :user123`}</span>
+                <span>{`Admin : admin@gmail`}</span><br/>
+                <span>{`Password :admin@123`}</span>
                 </div>
               </form>
               
