@@ -41,8 +41,8 @@ export default function Checkout({amount}) {
             amount={amount*100}
             shippingAddress
             currency='INR'
-            stripeKey='pk_test_51MdRTcSADYwrP5wmJNYzFxk8c03oR7qhQU5Oc9yNzbBitGyC6kEdkmIJWvCBrJAqksIC62jDFFCCdo9fNy7KgYv000gHR0o6vk'
-            // stripeKey='pk_test_51MdRTcSADYwrP5wmJNYzFxk8c03oR7qhQU5Oc9yNzbBitGyC6kEdkmIJWvCBrJAqksIC62jDFFCCdo9fNy7KgYv000gHR0o6vk'
+            stripeKey='pk_test_51MZGvhSGDa1FYuRCESCDQG8mTqHQMWBPMAdGEr0X1ce9wYkIcnTO3WKSIaluMtgdfSayJ8r6xCfy9A2KLYMrFX2700D0koV1vc'
+            // stripeKey='pk_test_51MZGvhSGDa1FYuRCESCDQG8mTqHQMWBPMAdGEr0X1ce9wYkIcnTO3WKSIaluMtgdfSayJ8r6xCfy9A2KLYMrFX2700D0koV1vc'
             >
 
             <button className="btn" onClick={validate}>PAY NOW</button>

@@ -85,16 +85,7 @@ export default function Addproduct() {
                   setimageurl(e.target.value);
                 }}
               />
-              {/* <input
-              type="text"
-              required
-              className="form-control mb-2 mr-sm-2"
-              placeholder="category"
-              value={category}
-              onChange={(e) => {
-                setcategory(e.target.value);
-              }}
-            /> */}
+             
               <select className='form-control' placeholder='Catagory' name='catagory' value={category} onChange={(e) => {
                 setcategory(e.target.value);
               }} >
