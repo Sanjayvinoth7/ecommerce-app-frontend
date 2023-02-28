@@ -69,7 +69,6 @@ export const updateUser=(userid , updateduser)=>dispatch=>{
        dispatch({type:'USER_UPDATE_SUCCESS'})
 
        console.log(res);
-      //  window.location.reload();
 
     })
     .catch(err => {

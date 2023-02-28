@@ -41,15 +41,7 @@ export default function Adminscreen(props) {
 
 
                        
-                       {/* <Routes>
-                       <Route path='/admin' element={<Userslist/>}  />
-                          <Route path='/admin/userslist' element={<Userslist></Userslist>} />
-                          <Route path='/admin/orderslist' element={<Orderslist></Orderslist>} />
-                          <Route path='/admin/addnewproduct' element={<Addproduct></Addproduct>} />
-                          <Route path='/admin/productslist' element={<Productslist></Productslist>} />
-                          <Route path='/admin/editproduct/:productid' element={<Editproduct></Editproduct>} />
-                         
-                       </Routes> */}
+                
 
                        
 
